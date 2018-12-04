@@ -87,6 +87,10 @@
 - [Emotion](https://github.com/emotion-js/emotion) - style as a function of state.
 - [Postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins.
 - [Purgecss](https://github.com/FullHuman/purgecss) - Remove unused css.
+- [Cssnano](https://github.com/cssnano/cssnano) - A modular minifier, built on top of the PostCSS ecosystem.
+- [Html-minifier](https://github.com/kangax/html-minifier) - HTML compressor/minifier.
+- [UglifyJS2](https://github.com/mishoo/UglifyJS2) - JavaScript parser / mangler / compressor / beautifier toolkit.
+- [OptiPNG](http://optipng.sourceforge.net/) - PNG optimizer that recompresses image files to a smaller size, without losing any information.
 
 ## Test tools
 
