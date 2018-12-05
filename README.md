@@ -86,10 +86,12 @@
 
 - [Commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy.
 - [Emotion](https://github.com/emotion-js/emotion) - style as a function of state.
+- [posthtml](https://github.com/posthtml/posthtml) - a tool to transform HTML/XML with JS plugin.
+- [posthtml-minifier](https://github.com/Rebelmail/posthtml-minifier) - HTML compressor/minifier.
 - [Postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins.
-- [Purgecss](https://github.com/FullHuman/purgecss) - Remove unused css.
+- [postcss-purgecss](https://github.com/FullHuman/postcss-purgecss) - Remove unused css, postcss plugin.
+- [autoprefixer](https://github.com/postcss/autoprefixer) - adds vendor prefixes, using data from Can I Use.
 - [Cssnano](https://github.com/cssnano/cssnano) - A modular minifier, built on top of the PostCSS ecosystem.
-- [Html-minifier](https://github.com/kangax/html-minifier) - HTML compressor/minifier.
 - [UglifyJS2](https://github.com/mishoo/UglifyJS2) - JavaScript parser / mangler / compressor / beautifier toolkit.
 - [OptiPNG](http://optipng.sourceforge.net/) - PNG optimizer that recompresses image files to a smaller size, without losing any information.
 
