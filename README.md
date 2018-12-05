@@ -73,7 +73,8 @@
 
 ## Devops tools
 
-- [parcel](https://github.com/parcel-bundler/parcel) - Blazing fast, zero configuration web application bundler
+- [parcel](https://github.com/parcel-bundler/parcel) - Web application bundler, Blazing fast, zero configuration.
+- [rollup](https://github.com/rollup/rollup) - ES module bundler.
 - [kayenta](https://github.com/spinnaker/kayenta) - Automated Canary Service for Spinnaker.
 - [spinnaker](https://github.com/spinnaker/spinnaker) - multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
 - [nodejs-app-upgrade](https://github.com/gytai/nodejs-app-upgrade) - 基于Nodejs、express框架的app升级服务。数据库MongoDB。UI框架Layui Admin
@@ -97,6 +98,8 @@
 - [Minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally.
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API
 - [Hiper](https://github.com/pod4g/hiper) - A statistical analysis tool for performance testing
+- [vue-test-utils](https://github.com/vuejs/vue-test-utils) - Utilities for testing Vue components.
+- [jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
 - [Sinon](https://github.com/sinonjs/sinon) - Test spies, stubs and mocks for JavaScript.
 - [Autocannon](https://github.com/mcollina/autocannon) - fast HTTP/1.1 benchmarking tool written in Node.js.
 - [k6](https://github.com/loadimpact/k6) - A modern load testing tool, using Go and JavaScript
