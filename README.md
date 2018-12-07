@@ -28,7 +28,7 @@
 - [Vue-router](https://github.com/vuejs/vue-router) - Single-page application routing.
 - [Vuex](https://github.com/vuejs/vuex) - Large-scale state management.
 - [Vue-loader](https://github.com/vuejs/vue-loader) - Single File Component (*.vue file) loader for webpack.
-- [Vuetify](https://github.com/vuetifyjs/vuetify) - Material Component Framework for Vue.js 2.
+- [Buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma.
 - [Vue-i18n](https://github.com/kazupon/vue-i18n) - Internationalization plugin for Vue.js.
 - [Ky](https://github.com/sindresorhus/ky) - Tiny and elegant HTTP client based on the browser Fetch API.
 
