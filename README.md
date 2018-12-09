@@ -27,13 +27,15 @@
 - [Vue](https://github.com/vuejs/vue) - A progressive, incrementally-adoptable JavaScript framework for building UI on the web. 
 - [Vue-router](https://github.com/vuejs/vue-router) - Single-page application routing.
 - [Vuex](https://github.com/vuejs/vuex) - Large-scale state management.
-- [Vue-loader](https://github.com/vuejs/vue-loader) - Single File Component (*.vue file) loader for webpack.
-- [Buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma.
-- [Vue-i18n](https://github.com/kazupon/vue-i18n) - Internationalization plugin for Vue.js.
 - [Ky](https://github.com/sindresorhus/ky) - Tiny and elegant HTTP client based on the browser Fetch API.
+- [Vue-i18n](https://github.com/kazupon/vue-i18n) - Internationalization plugin for Vue.js.
+- [Buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma.
+- [Proximity_Buttons](https://github.com/McCrearyD/Proximity_Buttons) - A Pure JS & CSS Take on MS Fluent Design Button Hover Effects.
+- [fluent-reveal-effect](https://github.com/d2phap/fluent-reveal-effect) - Fluent Design library.
 
 ## Common libraries 
 
+- [immer](https://github.com/mweststrate/immer) - Create the next immutable state by mutating the current one,  it is based on the copy-on-write mechanism.
 - [Dayjs](https://github.com/iamkun/dayjs) - Day.js 2KB immutable date library alternative to Moment.js with the same modern API.
 - [Flatbuffers](https://github.com/google/flatbuffers) - Memory Efficient Serialization Library.
 - [Slate](https://github.com/lord/slate) - Beautiful static documentation for your API.
@@ -74,6 +76,8 @@
 ## Devops tools
 
 - [parcel](https://github.com/parcel-bundler/parcel) - Web application bundler, Blazing fast, zero configuration.
+- [parcel-plugin-sw-cache](https://github.com/mischnic/parcel-plugin-sw-cache) - Parcel plugin for caching using a service worker, run workbox-build after every build.
+- [workbox](https://github.com/GoogleChrome/workbox) - Google libraries for Progressive Web Apps.
 - [rollup](https://github.com/rollup/rollup) - ES module bundler.
 - [kayenta](https://github.com/spinnaker/kayenta) - Automated Canary Service for Spinnaker.
 - [spinnaker](https://github.com/spinnaker/spinnaker) - multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
@@ -94,6 +98,7 @@
 - [Cssnano](https://github.com/cssnano/cssnano) - A modular minifier, built on top of the PostCSS ecosystem.
 - [UglifyJS2](https://github.com/mishoo/UglifyJS2) - JavaScript parser / mangler / compressor / beautifier toolkit.
 - [OptiPNG](http://optipng.sourceforge.net/) - PNG optimizer that recompresses image files to a smaller size, without losing any information.
+- [page-skeleton-webpack-plugin](https://github.com/ElemeFE/page-skeleton-webpack-plugin) - Webpack plugin to generate the skeleton page automatically, refer to [饿了么的 PWA 升级实践](https://huangxuan.me/2017/07/12/upgrading-eleme-to-pwa/)
 
 ## Test tools
 
@@ -106,6 +111,7 @@
 - [Autocannon](https://github.com/mcollina/autocannon) - fast HTTP/1.1 benchmarking tool written in Node.js.
 - [k6](https://github.com/loadimpact/k6) - A modern load testing tool, using Go and JavaScript
 - [Supertest](https://github.com/visionmedia/supertest) - Super-agent driven library for testing node.js HTTP servers using a fluent API.
+- [cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 
 ## Utilities
 
@@ -113,6 +119,7 @@
 - [Cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 - [Mdx-deck](https://github.com/jxnblk/mdx-deck) - MDX-based presentation decks.
 - [Docz](https://github.com/pedronauck/docz) - It has never been so easy to document your things!
+- [vuepress](https://github.com/vuejs/vuepress) - Minimalistic Vue-powered static site generator 
 - [React-static](https://github.com/nozzle/react-static) - A progressive static site generator for React.
 
 ## Systems
