@@ -73,11 +73,15 @@
 - [MQTT.js](https://github.com/mqttjs/MQTT.js) - The MQTT client for Node.js and the browser. MQTT is a machine-to-machine (M2M)/"Internet of Things" connectivity protocol.
 - [mosca](https://github.com/mcollina/mosca) - MQTT broker as a module.
 
+## PWA
+
+- [workbox](https://github.com/GoogleChrome/workbox) - Google libraries for Progressive Web Apps.
+- [parcel-plugin-sw-cache](https://github.com/mischnic/parcel-plugin-sw-cache) - Parcel plugin for caching using a service worker, run workbox-build after every build.
+- [register-service-worker](https://github.com/yyx990803/register-service-worker) - A script to simplify service worker registration with hooks for common events.
+
 ## Devops tools
 
 - [parcel](https://github.com/parcel-bundler/parcel) - Web application bundler, Blazing fast, zero configuration.
-- [parcel-plugin-sw-cache](https://github.com/mischnic/parcel-plugin-sw-cache) - Parcel plugin for caching using a service worker, run workbox-build after every build.
-- [workbox](https://github.com/GoogleChrome/workbox) - Google libraries for Progressive Web Apps.
 - [rollup](https://github.com/rollup/rollup) - ES module bundler.
 - [kayenta](https://github.com/spinnaker/kayenta) - Automated Canary Service for Spinnaker.
 - [spinnaker](https://github.com/spinnaker/spinnaker) - multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
