@@ -82,6 +82,8 @@
 ## Workflow tools
 
 - [husky](https://github.com/typicode/husky) - Git hooks made easy
+- [cz-cli](https://github.com/commitizen/cz-cli) - you'll be prompted to fill out any required commit fields at commit time, use `git cz` instead of `git commit` when committing.
+- [cz-conventional-changelog](https://github.com/commitizen/cz-conventional-changelog) - Prompts for conventional changelog standard, part of the commitizen family.
 - [pretty-quick](https://github.com/azz/pretty-quick) - Runs Prettier on your changed files, as a pre-commit hook using husky.
 - [lint-staged](https://github.com/okonet/lint-staged) - Run linters on git staged files, as a pre-commit hook using husky.
 - [semantic-release](https://github.com/semantic-release/semantic-release) - Fully automated version management and package publishing
