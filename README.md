@@ -30,6 +30,7 @@
 - [Ky](https://github.com/sindresorhus/ky) - Tiny and elegant HTTP client based on the browser Fetch API.
 - [Vue-i18n](https://github.com/kazupon/vue-i18n) - Internationalization plugin for Vue.js.
 - [Buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma.
+- [vue-awesome](https://github.com/Justineo/vue-awesome) - Awesome SVG icon component for Vue.js, built-in with Font Awesome icons.
 - [Proximity_Buttons](https://github.com/McCrearyD/Proximity_Buttons) - A Pure JS & CSS Take on MS Fluent Design Button Hover Effects.
 - [fluent-reveal-effect](https://github.com/d2phap/fluent-reveal-effect) - Fluent Design library.
 
@@ -42,6 +43,11 @@
 - [Slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. 
 - [Url-parse](https://github.com/unshiftio/url-parse) - Pure string parsing solution that works seamlessly across Node.js and browser environments.
 - [Query-string](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings.
+
+## Services
+
+- [places](https://github.com/algolia/places) - Turn any <input> into an address autocomplete, algolia service.
+- [instantsearch.js](https://github.com/algolia/instantsearch.js) - JavaScript library for building performant and instant search experiences with Algolia.
 
 ## Database
 
