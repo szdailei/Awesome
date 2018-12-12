@@ -79,6 +79,13 @@
 - [parcel-plugin-sw-cache](https://github.com/mischnic/parcel-plugin-sw-cache) - Parcel plugin for caching using a service worker, run workbox-build after every build.
 - [register-service-worker](https://github.com/yyx990803/register-service-worker) - A script to simplify service worker registration with hooks for common events.
 
+## Workflow tools
+
+- [husky](https://github.com/typicode/husky) - Git hooks made easy
+- [pretty-quick](https://github.com/azz/pretty-quick) - Runs Prettier on your changed files, as a pre-commit hook using husky.
+- [lint-staged](https://github.com/okonet/lint-staged) - Run linters on git staged files, as a pre-commit hook using husky.
+- [semantic-release](https://github.com/semantic-release/semantic-release) - Fully automated version management and package publishing
+
 ## Devops tools
 
 - [parcel](https://github.com/parcel-bundler/parcel) - Web application bundler, Blazing fast, zero configuration.
