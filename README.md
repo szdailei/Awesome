@@ -42,7 +42,7 @@
 - [Slate](https://github.com/lord/slate) - Beautiful static documentation for your API.
 - [Slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. 
 - [Url-parse](https://github.com/unshiftio/url-parse) - Pure string parsing solution that works seamlessly across Node.js and browser environments.
-- [Query-string](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings.
+- [qs](https://github.com/ljharb/qs) - A querystring parser with nesting support.
 
 ## Services
 
