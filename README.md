@@ -4,6 +4,8 @@
 
 - [Fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js.
 - [Nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient and scalable server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) heavily inspired by Angular.
+- [ajv](https://github.com/epoberezkin/ajv) - The fastest JSON Schema Validator, called by Fastify.
+- [http-errors](https://github.com/jshttp/http-errors) - Create HTTP Errors.
 - [Fast-json-stringify](https://github.com/fastify/fast-json-stringify) - 2x faster than JSON.stringify().
 - [Fastify-circuit-breaker](https://github.com/fastify/fastify-circuit-breaker) - A low overhead circuit breaker for your routes.
 - [Fastify-compress](https://github.com/fastify/fastify-compress) - Fastify compression utils.
