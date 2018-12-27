@@ -3,7 +3,6 @@
 ## Backend frameworks & libraries
 
 - [Fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js.
-- [Nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient and scalable server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) heavily inspired by Angular.
 - [ajv](https://github.com/epoberezkin/ajv) - The fastest JSON Schema Validator, called by Fastify.
 - [http-errors](https://github.com/jshttp/http-errors) - Create HTTP Errors.
 - [Fast-json-stringify](https://github.com/fastify/fast-json-stringify) - 2x faster than JSON.stringify().
@@ -25,14 +24,15 @@
 - [hashmap](https://github.com/cornelk/hashmap) - A Golang lock-free thread-safe HashMap optimized for fastest read access.
 
 ## Frontend  frameworks & libraries
-
-- [Vue](https://github.com/vuejs/vue) - A progressive, incrementally-adoptable JavaScript framework for building UI on the web. 
-- [Vue-router](https://github.com/vuejs/vue-router) - Single-page application routing.
-- [Vuex](https://github.com/vuejs/vuex) - Large-scale state management.
+- [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces. 
+- [@reach/router](https://github.com/reach/router) - Router manages the focus of your app on route transitions. There’s nothing you have to do about it, it just happens.
+- [constate](https://github.com/diegohaz/constate) - Scalable state manager using React Hooks & Context.
+- [emotion](https://github.com/emotion-js/emotion) - CSS-in-JS library designed for high performance style composition.
+- [bloomer](https://github.com/AlgusDark/bloomer) - A set of React components for Bulma CSS Framework.
+- [react-use-form-state](https://github.com/wsmd/react-use-form-state) - React hook for managing forms and inputs state.
+- [formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears.
+- [react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js.
 - [Ky](https://github.com/sindresorhus/ky) - Tiny and elegant HTTP client based on the browser Fetch API.
-- [Vue-i18n](https://github.com/kazupon/vue-i18n) - Internationalization plugin for Vue.js.
-- [Buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma.
-- [vue-awesome](https://github.com/Justineo/vue-awesome) - Awesome SVG icon component for Vue.js, built-in with Font Awesome icons.
 - [Proximity_Buttons](https://github.com/McCrearyD/Proximity_Buttons) - A Pure JS & CSS Take on MS Fluent Design Button Hover Effects.
 - [fluent-reveal-effect](https://github.com/d2phap/fluent-reveal-effect) - Fluent Design library.
 
@@ -110,7 +110,6 @@
 ## Development tools
 
 - [Commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy.
-- [Emotion](https://github.com/emotion-js/emotion) - style as a function of state.
 - [posthtml](https://github.com/posthtml/posthtml) - a tool to transform HTML/XML with JS plugin.
 - [posthtml-minifier](https://github.com/Rebelmail/posthtml-minifier) - HTML compressor/minifier.
 - [Postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins.
@@ -165,4 +164,4 @@
 
 ## License
 
-This project is under the [CC0 1.0 license](https://creativecommons.org/publicdomain/zero/1.0/)
+This project is under the [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/) license.
