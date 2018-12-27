@@ -163,5 +163,4 @@
 - [Jaeger](https://github.com/jaegertracing/jaeger) -CNCF Jaeger, a Distributed Tracing System.
 
 ## License
-
-This project is under the [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/) license.
+[CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/)
