@@ -28,7 +28,8 @@
 - [@reach/router](https://github.com/reach/router) - Router manages the focus of your app on route transitions. There’s nothing you have to do about it, it just happens.
 - [constate](https://github.com/diegohaz/constate) - Scalable state manager using React Hooks & Context.
 - [emotion](https://github.com/emotion-js/emotion) - CSS-in-JS library designed for high performance style composition.
-- [bloomer](https://github.com/AlgusDark/bloomer) - A set of React components for Bulma CSS Framework.
+- [@material-ui/core](https://github.com/mui-org/material-ui) - React components that implement Google's Material Design
+- [downshift](https://github.com/paypal/downshift) - Primitive to build simple, flexible, WAI-ARIA compliant enhanced input React components
 - [react-use-form-state](https://github.com/wsmd/react-use-form-state) - React hook for managing forms and inputs state.
 - [formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears.
 - [react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js.
@@ -90,15 +91,15 @@
 ## Workflow tools
 
 - [husky](https://github.com/typicode/husky) - Git hooks made easy
-- [cz-cli](https://github.com/commitizen/cz-cli) - you'll be prompted to fill out any required commit fields at commit time, use `git cz` instead of `git commit` when committing.
-- [cz-conventional-changelog](https://github.com/commitizen/cz-conventional-changelog) - Prompts for conventional changelog standard, part of the commitizen family.
-- [pretty-quick](https://github.com/azz/pretty-quick) - Runs Prettier on your changed files, as a pre-commit hook using husky.
-- [lint-staged](https://github.com/okonet/lint-staged) - Run linters on git staged files, as a pre-commit hook using husky.
-- [semantic-release](https://github.com/semantic-release/semantic-release) - Fully automated version management and package publishing
+- [prettier](https://github.com/prettier/prettier) - an opinionated code formatter
+- [eslint](https://www.npmjs.com/package/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript
+- [commitlint](https://github.com/marionebl/commitlint) - Lint commit messages
+- [standard-version](https://github.com/conventional-changelog/standard-version) - Automate versioning and CHANGELOG generation
 
 ## Devops tools
 
-- [parcel](https://github.com/parcel-bundler/parcel) - Web application bundler, Blazing fast, zero configuration.
+- [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets
+- [html-webpack-plugin](https://github.com/jantimon/html-webpack-plugin) - Simplifies creation of HTML files to serve your webpack bundles
 - [rollup](https://github.com/rollup/rollup) - ES module bundler.
 - [kayenta](https://github.com/spinnaker/kayenta) - Automated Canary Service for Spinnaker.
 - [spinnaker](https://github.com/spinnaker/spinnaker) - multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
@@ -125,8 +126,8 @@
 - [Minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally.
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API
 - [Hiper](https://github.com/pod4g/hiper) - A statistical analysis tool for performance testing
-- [vue-test-utils](https://github.com/vuejs/vue-test-utils) - Utilities for testing Vue components.
-- [jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
+- [mocha](https://github.com/mochajs/mocha) - simple, flexible, fun javascript test framework for node.js & the browser
+- [chai](https://github.com/chaijs/chai) - assertion framework for node.js and the browser that can be paired with any testing framework.
 - [Sinon](https://github.com/sinonjs/sinon) - Test spies, stubs and mocks for JavaScript.
 - [Autocannon](https://github.com/mcollina/autocannon) - fast HTTP/1.1 benchmarking tool written in Node.js.
 - [k6](https://github.com/loadimpact/k6) - A modern load testing tool, using Go and JavaScript
@@ -143,10 +144,9 @@
 ## Utilities
 
 - [ACME](https://github.com/Neilpang/acme.sh) - Unix shell script implementing ACME (Automatic Certificate Management Environment) client protocol.
-- [Cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
+- [scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [Mdx-deck](https://github.com/jxnblk/mdx-deck) - MDX-based presentation decks.
 - [Docz](https://github.com/pedronauck/docz) - It has never been so easy to document your things!
-- [vuepress](https://github.com/vuejs/vuepress) - Minimalistic Vue-powered static site generator 
 - [React-static](https://github.com/nozzle/react-static) - A progressive static site generator for React.
 
 ## Systems
