@@ -49,6 +49,9 @@
 
 ## Services
 
+- [sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for Javascript.Stop hoping your users will report errors
+- [bugsnag-js](https://github.com/bugsnag/bugsnag-js) - Javascript notifier for Bugsnag. Monitor and report JavaScript errors. Include react plugin
+- [loglevel-plugin-remote](https://github.com/kutuluk/loglevel-plugin-remote) - A loglevel plugin for sending browser logs to a server
 - [places](https://github.com/algolia/places) - Turn any <input> into an address autocomplete, algolia service.
 - [instantsearch.js](https://github.com/algolia/instantsearch.js) - JavaScript library for building performant and instant search experiences with Algolia.
 
