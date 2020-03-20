@@ -245,7 +245,7 @@
 
 ## Linux softwares
 - [Gnome mpv] - video player
-- [Strawberry] - music player
+- [Audacious] - music player
 - [PulseEffects] - limiter, compressor, autogain, equalizer for pulse audio
 - [Pencil] - draw prototypes
 - [scrcpy] - remote control for android devices 
