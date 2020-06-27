@@ -141,90 +141,36 @@
 - [http-server](https://github.com/indexzero/http-server) - a simple zero-configuration command-line http server.
 - [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [lighthouse](https://github.com/GoogleC# Awesome for developers
-2
-​
-3
+
 ## Backend frameworks & libraries
-4
-​
-5
-- [Fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js.
-6
+- [koa](https://github.com/koajs/koa) - Expressive HTTP middleware framework for node.js to make web applications and APIs more enjoyable to write.
 - [ajv](https://github.com/epoberezkin/ajv) - The fastest JSON Schema Validator, called by Fastify.
-7
-- [http-errors](https://github.com/jshttp/http-errors) - Create HTTP Errors.
-8
-- [Fast-json-stringify](https://github.com/fastify/fast-json-stringify) - 2x faster than JSON.stringify().
-9
-- [Fastify-circuit-breaker](https://github.com/fastify/fastify-circuit-breaker) - A low overhead circuit breaker for your routes.
-10
-- [Fastify-compress](https://github.com/fastify/fastify-compress) - Fastify compression utils.
-11
-- [Fastify-http-proxy](https://github.com/fastify/fastify-http-proxy) - Proxy your http requests to another server, with hooks.
-12
-- [Fastify-routes](https://github.com/fastify/fastify-routes) - Decorates fastify instance with a map of routes.
-13
-- [Fastify-rate-limit](https://github.com/fastify/fastify-rate-limit) - A low overhead rate limiter for your routes.
-14
-- [Got](https://github.com/sindresorhus/got) - Simplified HTTP requests.
-15
 - [Node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken implementation for node.js.
-16
-- [Pino](https://github.com/pinojs/pino) - super fast, all natural json logger.
-17
 - [zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
-18
 - [Remark](https://github.com/remarkjs/remark) - markdown processor powered by plugins part of the @unifiedjs collective.
-19
 - [Undici](https://github.com/mcollina/undici) - Node.js HTTP/1.1 client, with http pool.
-20
 - [hydra](https://github.com/ory/hydra) - OpenID Connect certified OAuth2 Server - cloud native, security-first, open source API security for your infrastructure. Written in Go. SDKs for any language.
-21
 - [fido2-server-demo](https://github.com/apowers313/fido2-server-demo) - A set of FIDO2 / WebAuthn demo servers
-22
 - [spire](https://github.com/spiffe/spire) - The SPIFFE Runtime Environment
-23
 - [spiffe](https://github.com/spiffe/spiffe) - The SPIFFE Project
-24
 - [hashmap](https://github.com/cornelk/hashmap) - A Golang lock-free thread-safe HashMap optimized for fastest read access.
-25
-​
-26
+
 ## Frontend  frameworks & libraries
-27
 - [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces. 
-28
 - [@reach/router](https://github.com/reach/router) - Router manages the focus of your app on route transitions. There’s nothing you have to do about it, it just happens.
-29
 - [constate](https://github.com/diegohaz/constate) - Scalable state manager using React Hooks & Context.
-30
 - [emotion](https://github.com/emotion-js/emotion) - CSS-in-JS library designed for high performance style composition.
-31
-- [@material-ui/core](https://github.com/mui-org/material-ui) - React components that implement Google's Material Design
-32
-- [downshift](https://github.com/paypal/downshift) - Primitive to build simple, flexible, WAI-ARIA compliant enhanced input React components
-33
 - [react-use-form-state](https://github.com/wsmd/react-use-form-state) - React hook for managing forms and inputs state.
-34
 - [formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears.
-35
 - [react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js.
-36
-- [Ky](https://github.com/sindresorhus/ky) - Tiny and elegant HTTP client based on the browser Fetch API.
-37
-- [Proximity_Buttons](https://github.com/McCrearyD/Proximity_Buttons) - A Pure JS & CSS Take on MS Fluent Design Button Hover Effects.
-38
-- [fluent-reveal-effect](https://github.com/d2phap/fluent-reveal-effect) - Fluent Design library.
-39
-​
-40
+
 ## Common libraries hrome/lighthouse) - Auditing, performance metrics, and best practices for Progressive Web Apps
 - [json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [faker.js](https://github.com/Marak/faker.js) - generate massive amounts of realistic fake data in Node.js and the browser
 
 ## Utilities
-
 - [ACME](https://github.com/Neilpang/acme.sh) - Unix shell script implementing ACME (Automatic Certificate Management Environment) client protocol.
+- [mkcert](https://github.com/FiloSottile/mkcert) - mkcert is a simple tool for making locally-trusted development certificates. It can work together with ACME.
 - [scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [Mdx-deck](https://github.com/jxnblk/mdx-deck) - MDX-based presentation decks.
 - [Docz](https://github.com/pedronauck/docz) - It has never been so easy to document your things!
