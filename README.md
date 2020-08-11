@@ -2,18 +2,16 @@
 
 ## Backend frameworks & libraries
 
-- [Fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js.
+- [dotenv-defaults](https://github.com/mrsteele/dotenv-defaults) - A dotenv system that supports defaults.
+- [minimist](https://github.com/substack/minimist) - Parse argument options.
+- [text-table](https://github.com/substack/text-table) - Generate borderless text table strings suitable for printing to stdout.
+- [mime](https://github.com/broofa/mime) - A comprehensive, compact MIME type module. There is also a "lite" version of this module.
+- [quick-lru](https://github.com/sindresorhus/quick-lru) - Simple “Least Recently Used” (LRU) cache.
+- [http-proxy](https://github.com/http-party/node-http-proxy) - An HTTP programmable proxying library that supports websockets. It is suitable for implementing components such as reverse proxies and load balancers.
+- [graphql-js](https://github.com/graphql/graphql-js) - The JavaScript reference implementation for GraphQL, a query language for APIs created by Facebook.
+- [loglevel](https://github.com/pimterry/loglevel) - Minimal lightweight simple logging for JavaScript. loglevel replaces console.log() and friends with level-based logging and filtering, with none of console's downsides.
 - [ajv](https://github.com/epoberezkin/ajv) - The fastest JSON Schema Validator, called by Fastify.
-- [http-errors](https://github.com/jshttp/http-errors) - Create HTTP Errors.
-- [Fast-json-stringify](https://github.com/fastify/fast-json-stringify) - 2x faster than JSON.stringify().
-- [Fastify-circuit-breaker](https://github.com/fastify/fastify-circuit-breaker) - A low overhead circuit breaker for your routes.
-- [Fastify-compress](https://github.com/fastify/fastify-compress) - Fastify compression utils.
-- [Fastify-http-proxy](https://github.com/fastify/fastify-http-proxy) - Proxy your http requests to another server, with hooks.
-- [Fastify-routes](https://github.com/fastify/fastify-routes) - Decorates fastify instance with a map of routes.
-- [Fastify-rate-limit](https://github.com/fastify/fastify-rate-limit) - A low overhead rate limiter for your routes.
-- [Got](https://github.com/sindresorhus/got) - Simplified HTTP requests.
 - [Node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken implementation for node.js.
-- [Pino](https://github.com/pinojs/pino) - super fast, all natural json logger.
 - [zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 - [Remark](https://github.com/remarkjs/remark) - markdown processor powered by plugins part of the @unifiedjs collective.
 - [Undici](https://github.com/mcollina/undici) - Node.js HTTP/1.1 client, with http pool.
@@ -25,17 +23,14 @@
 
 ## Frontend  frameworks & libraries
 - [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces. 
-- [@reach/router](https://github.com/reach/router) - Router manages the focus of your app on route transitions. There’s nothing you have to do about it, it just happens.
+- [emotion](https://github.com/emotion-js/emotion) - CSS-in-JS library designed for high performance style composition.
+- [react-router](https://github.com/ReactTraining/react-router) - V6 use react hook.
+- [graphql-request](https://github.com/prisma-labs/graphql-request) - Minimal GraphQL client supporting Node and browsers for scripts or simple apps
+- [swr](https://github.com/vercel/swr) - SWR is a React Hooks library for remote data fetching.
 - [constate](https://github.com/diegohaz/constate) - Scalable state manager using React Hooks & Context.
 - [emotion](https://github.com/emotion-js/emotion) - CSS-in-JS library designed for high performance style composition.
-- [@material-ui/core](https://github.com/mui-org/material-ui) - React components that implement Google's Material Design
-- [downshift](https://github.com/paypal/downshift) - Primitive to build simple, flexible, WAI-ARIA compliant enhanced input React components
 - [react-use-form-state](https://github.com/wsmd/react-use-form-state) - React hook for managing forms and inputs state.
-- [formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears.
 - [react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js.
-- [Ky](https://github.com/sindresorhus/ky) - Tiny and elegant HTTP client based on the browser Fetch API.
-- [Proximity_Buttons](https://github.com/McCrearyD/Proximity_Buttons) - A Pure JS & CSS Take on MS Fluent Design Button Hover Effects.
-- [fluent-reveal-effect](https://github.com/d2phap/fluent-reveal-effect) - Fluent Design library.
 
 ## Common libraries 
 
@@ -91,82 +86,33 @@
 - [parcel-plugin-sw-cache](https://github.com/mischnic/parcel-plugin-sw-cache) - Parcel plugin for caching using a service worker, run workbox-build after every build.
 - [register-service-worker](https://github.com/yyx990803/register-service-worker) - A script to simplify service worker registration with hooks for common events.
 
-## Workflow tools
+## CI&CD tools
+- [drone](https://github.com/drone/drone) - Drone is a Continuous Delivery system built on container technology.
 
-- [husky](https://github.com/typicode/husky) - Git hooks made easy
-- [prettier](https://github.com/prettier/prettier) - an opinionated code formatter
-- [eslint](https://www.npmjs.com/package/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript
-- [commitlint](https://github.com/marionebl/commitlint) - Lint commit messages
-- [standard-version](https://github.com/conventional-changelog/standard-version) - Automate versioning and CHANGELOG generation
-
-## Devops tools
-
-- [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets
-- [html-webpack-plugin](https://github.com/jantimon/html-webpack-plugin) - Simplifies creation of HTML files to serve your webpack bundles
-- [rollup](https://github.com/rollup/rollup) - ES module bundler.
-- [kayenta](https://github.com/spinnaker/kayenta) - Automated Canary Service for Spinnaker.
-- [spinnaker](https://github.com/spinnaker/spinnaker) - multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
-- [nodejs-app-upgrade](https://github.com/gytai/nodejs-app-upgrade) - 基于Nodejs、express框架的app升级服务。数据库MongoDB。UI框架Layui Admin
-- [lib](https://github.com/stdlib/lib) - Serverless API Development, Deployment, and Management Tools.
-- [claudia](https://github.com/claudiajs/claudia) - Deploy Node.js projects to AWS Lambda and API Gateway easily
-- [claudia-bot-builder](https://github.com/claudiajs/claudia-bot-builder)- Create chat bots for Facebook Messenger, Slack, Amazon Alexa, Skype, Telegram, Viber, Line, GroupMe, Kik and Twilio and deploy to AWS Lambda in minutes
+## GitOps tools
+- [Argo](https://github.com/argoproj/argo) - Argo Workflows is an open source container-native workflow engine for orchestrating parallel jobs on Kubernetes.
 
 ## Development tools
 
-- [Commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy.
-- [posthtml](https://github.com/posthtml/posthtml) - a tool to transform HTML/XML with JS plugin.
-- [posthtml-minifier](https://github.com/Rebelmail/posthtml-minifier) - HTML compressor/minifier.
-- [Postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins.
-- [postcss-purgecss](https://github.com/FullHuman/postcss-purgecss) - Remove unused css, postcss plugin.
-- [autoprefixer](https://github.com/postcss/autoprefixer) - adds vendor prefixes, using data from Can I Use.
-- [Cssnano](https://github.com/cssnano/cssnano) - A modular minifier, built on top of the PostCSS ecosystem.
-- [UglifyJS2](https://github.com/mishoo/UglifyJS2) - JavaScript parser / mangler / compressor / beautifier toolkit.
+- [prettier](https://github.com/prettier/prettier) - an opinionated code formatter
+- [eslint](https://www.npmjs.com/package/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript
+- [rollup](https://github.com/rollup/rollup) - ES module bundler.
+- [ncc](https://github.com/vercel/ncc) - Compiling a Node.js module into a single file, together with all its dependencies.
+- [html-inline](https://github.com/substack/html-inline) - inline javascript, stylesheets, and images from an html page.
+- [nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server.
 - [OptiPNG](http://optipng.sourceforge.net/) - PNG optimizer that recompresses image files to a smaller size, without losing any information.
-- [page-skeleton-webpack-plugin](https://github.com/ElemeFE/page-skeleton-webpack-plugin) - Webpack plugin to generate the skeleton page automatically, refer to [饿了么的 PWA 升级实践](https://huangxuan.me/2017/07/12/upgrading-eleme-to-pwa/)
 
 ## Test tools
 
+- [json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
+- [faker.js](https://github.com/Marak/faker.js) - generate massive amounts of realistic fake data in Node.js and the browser
 - [Minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally.
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API
-- [Hiper](https://github.com/pod4g/hiper) - A statistical analysis tool for performance testing
 - [mocha](https://github.com/mochajs/mocha) - simple, flexible, fun javascript test framework for node.js & the browser
 - [chai](https://github.com/chaijs/chai) - assertion framework for node.js and the browser that can be paired with any testing framework.
 - [Sinon](https://github.com/sinonjs/sinon) - Test spies, stubs and mocks for JavaScript.
-- [Autocannon](https://github.com/mcollina/autocannon) - fast HTTP/1.1 benchmarking tool written in Node.js.
-- [k6](https://github.com/loadimpact/k6) - A modern load testing tool, using Go and JavaScript
-- [Supertest](https://github.com/visionmedia/supertest) - Super-agent driven library for testing node.js HTTP servers using a fluent API.
-- [cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
-- [nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server.
-- [browser-sync](https://github.com/BrowserSync/browser-sync) - Keep multiple browsers & devices in sync when building websites. 
-- [http-server](https://github.com/indexzero/http-server) - a simple zero-configuration command-line http server.
+- [0x](https://github.com/davidmarkclements/0x) - Discover the bottlenecks and hot paths in your code, with flamegraphs.
 - [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-- [lighthouse](https://github.com/GoogleC# Awesome for developers
-
-## Backend frameworks & libraries
-- [koa](https://github.com/koajs/koa) - Expressive HTTP middleware framework for node.js to make web applications and APIs more enjoyable to write.
-- [ajv](https://github.com/epoberezkin/ajv) - The fastest JSON Schema Validator, called by Fastify.
-- [Node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken implementation for node.js.
-- [zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
-- [Remark](https://github.com/remarkjs/remark) - markdown processor powered by plugins part of the @unifiedjs collective.
-- [Undici](https://github.com/mcollina/undici) - Node.js HTTP/1.1 client, with http pool.
-- [hydra](https://github.com/ory/hydra) - OpenID Connect certified OAuth2 Server - cloud native, security-first, open source API security for your infrastructure. Written in Go. SDKs for any language.
-- [fido2-server-demo](https://github.com/apowers313/fido2-server-demo) - A set of FIDO2 / WebAuthn demo servers
-- [spire](https://github.com/spiffe/spire) - The SPIFFE Runtime Environment
-- [spiffe](https://github.com/spiffe/spiffe) - The SPIFFE Project
-- [hashmap](https://github.com/cornelk/hashmap) - A Golang lock-free thread-safe HashMap optimized for fastest read access.
-
-## Frontend  frameworks & libraries
-- [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces. 
-- [@reach/router](https://github.com/reach/router) - Router manages the focus of your app on route transitions. There’s nothing you have to do about it, it just happens.
-- [constate](https://github.com/diegohaz/constate) - Scalable state manager using React Hooks & Context.
-- [emotion](https://github.com/emotion-js/emotion) - CSS-in-JS library designed for high performance style composition.
-- [react-use-form-state](https://github.com/wsmd/react-use-form-state) - React hook for managing forms and inputs state.
-- [formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears.
-- [react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js.
-
-## Common libraries hrome/lighthouse) - Auditing, performance metrics, and best practices for Progressive Web Apps
-- [json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
-- [faker.js](https://github.com/Marak/faker.js) - generate massive amounts of realistic fake data in Node.js and the browser
 
 ## Utilities
 - [ACME](https://github.com/Neilpang/acme.sh) - Unix shell script implementing ACME (Automatic Certificate Management Environment) client protocol.
@@ -174,7 +120,6 @@
 - [scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [Mdx-deck](https://github.com/jxnblk/mdx-deck) - MDX-based presentation decks.
 - [Docz](https://github.com/pedronauck/docz) - It has never been so easy to document your things!
-- [React-static](https://github.com/nozzle/react-static) - A progressive static site generator for React.
 
 ## Systems
 
@@ -190,12 +135,12 @@
 - [Jaeger](https://github.com/jaegertracing/jaeger) -CNCF Jaeger, a Distributed Tracing System.
 
 ## Linux softwares
-- [Gnome mpv] - video player
-- [Audacious] - music player
-- [PulseEffects] - limiter, compressor, autogain, equalizer for pulse audio
-- [Pencil] - draw prototypes
-- [scrcpy] - remote control for android devices 
-- [vivaldi] - Web browser
-
-## License
-[CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+- [Celluloid] - Front of mpv
+- [Audacious] - Music player
+- [PulseEffects] - Limiter, compressor, autogain, equalizer for pulse audio
+- [Gedit] - Text viewer
+- [Evince] - Document and PDF viewer
+- [Geeqie] - Picture viewer
+- [Pencil] - Draw prototypes
+- [Gimp] - GNU Image Manipulation Program
+- [scrcpy] - Remote control for android devices 
